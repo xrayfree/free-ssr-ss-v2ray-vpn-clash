@@ -7,5 +7,5 @@ http://v2ray.duia.us/free/v2ray.txt
 clash订阅链接
 http://v2ray.duia.us/free/clash.yaml  
 
-99元独享高速节点一年  http://vip-v2ray.tk
+99元独享高速节点一年 被墙免费换IP http://vip-v2ray.tk
 不限流量 不限设备 独享IP 独享带宽 高峰流畅 有效降低墙概率
