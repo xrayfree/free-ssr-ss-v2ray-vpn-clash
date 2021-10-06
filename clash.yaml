@@ -1,112 +1,187 @@
-﻿port: 7890
+port: 7890
 socks-port: 7891
 allow-lan: true
 mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 使用前更新订阅获取最新节点！, server: free.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 公益节点，请勿付费。如有购买及时退款！, server: al-1.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 请加电报群获取更多免费高速节点！, server: al-2.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 阿尔巴尼亚 电报群：https://t.me/xrayfree, server: al-3.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 罗马尼亚 电报群：https://t.me/xrayfree, server: ro-1.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 罗马尼亚 电报群：https://t.me/xrayfree 2, server: ro-2.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 罗马尼亚 电报群：https://t.me/xrayfree 3, server: ro-3.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 瑞典 电报群：https://t.me/xrayfree, server: se-1.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 瑞典 电报群：https://t.me/xrayfree 2, server: se-2.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 瑞典 电报群：https://t.me/xrayfree 3, server: se-3.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 英国 电报群：https://t.me/xrayfree, server: ua-1.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 英国 电报群：https://t.me/xrayfree 2, server: ua-2.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 英国 电报群：https://t.me/xrayfree 3, server: ua-3.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 美国 电报群：https://t.me/xrayfree, server: us-1.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 美国 电报群：https://t.me/xrayfree 2, server: us-2.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 美国 电报群：https://t.me/xrayfree 3, server: us-3.vip-v2ray.cf, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 美国 电报群：https://t.me/xrayfree 4, server: 185.242.5.158, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 美国 电报群：https://t.me/xrayfree 5, server: 199.58.187.14, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 美国 电报群：https://t.me/xrayfree 6, server: 45.43.14.86, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 印度 电报群：https://t.me/xrayfree, server: 103.94.27.230, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 印度 电报群：https://t.me/xrayfree 2, server: 103.94.27.116, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 卢森堡 电报群：https://t.me/xrayfree, server: 185.153.151.84, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 卢森堡 电报群：https://t.me/xrayfree 2, server: 185.153.151.141, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 卢森堡 电报群：https://t.me/xrayfree 3, server: 185.153.151.101, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 卢森堡 电报群：https://t.me/xrayfree 4, server: 185.153.151.81, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 波黑 电报群：https://t.me/xrayfree, server: 185.99.3.102, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 波黑 电报群：https://t.me/xrayfree 2, server: 185.99.3.99, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 波黑 电报群：https://t.me/xrayfree 3, server: 185.99.3.67, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 波黑 电报群：https://t.me/xrayfree 4, server: 185.99.3.16, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
-  - {name: 波黑 电报群：https://t.me/xrayfree 5, server: 185.99.3.97, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA, udp: true}
+  - {name: 公益节点，请勿付费。如有购买及时退款！, server: admin.91zfdao.com, port: 10086, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 请加电报群获取更多免费高速节点！, server: admin.91zfdao.com, port: 10086, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 电报群：https://t.me/xrayfree, server: admin.91zfdao.com, port: 10086, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港06, server: zfd.out02.nodeserver.top, port: 16218, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港05, server: zfd.out01.nodeserver.top, port: 16217, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港04, server: zfd.out04.nodeserver.top, port: 16216, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港03, server: zfd.out03.nodeserver.top, port: 16215, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港02, server: zfd.out02.nodeserver.top, port: 16214, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港01, server: zfd.out01.nodeserver.top, port: 16213, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾08, server: zfd.out01.nodeserver.top, port: 16125, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾07, server: zfd.out02.nodeserver.top, port: 16126, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾06, server: zfd.out03.nodeserver.top, port: 16127, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾05, server: zfd.out04.nodeserver.top, port: 16128, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾04, server: zfd.out02.nodeserver.top, port: 16224, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾03, server: zfd.out03.nodeserver.top, port: 16225, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾02, server: zfd.out04.nodeserver.top, port: 16226, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 台湾01, server: zfd.out01.nodeserver.top, port: 16223, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 西雅图01, server: zfd.out02.nodeserver.top, port: 16234, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 西雅图02, server: zfd.out01.nodeserver.top, port: 16233, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国01, server: zfd.out04.nodeserver.top, port: 16206, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国02, server: zfd.out03.nodeserver.top, port: 16205, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国03, server: zfd.out02.nodeserver.top, port: 16204, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国04, server: zfd.out01.nodeserver.top, port: 16203, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国05, server: zfd.out04.nodeserver.top, port: 16106, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国06, server: zfd.out03.nodeserver.top, port: 16105, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国07, server: zfd.out02.nodeserver.top, port: 16104, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 美国08, server: zfd.out01.nodeserver.top, port: 16103, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡01, server: zfd.out04.nodeserver.top, port: 16230, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡02, server: zfd.out03.nodeserver.top, port: 16229, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡03, server: zfd.out02.nodeserver.top, port: 16228, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡04, server: zfd.out01.nodeserver.top, port: 16227, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡05, server: zfd.out04.nodeserver.top, port: 16110, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡06, server: zfd.out03.nodeserver.top, port: 16109, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡07, server: zfd.out02.nodeserver.top, port: 16108, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 新加坡08, server: zfd.out01.nodeserver.top, port: 16107, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 俄罗斯01, server: zfd.out02.nodeserver.top, port: 16232, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 俄罗斯02, server: zfd.out01.nodeserver.top, port: 16231, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 马来西亚01, server: zfd.out01.nodeserver.top, port: 16235, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本01, server: zfd.out04.nodeserver.top, port: 16210, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本02, server: zfd.out03.nodeserver.top, port: 16209, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本03, server: zfd.out02.nodeserver.top, port: 16208, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本04, server: zfd.out01.nodeserver.top, port: 16207, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本05, server: zfd.out04.nodeserver.top, port: 16122, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本06, server: zfd.out03.nodeserver.top, port: 16121, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本07, server: zfd.out02.nodeserver.top, port: 16120, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 日本08, server: zfd.out01.nodeserver.top, port: 16119, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港07, server: zfd.out03.nodeserver.top, port: 16238, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港08, server: zfd.out02.nodeserver.top, port: 16237, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港09, server: zfd.out01.nodeserver.top, port: 16236, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港10, server: zfd.out02.nodeserver.top, port: 16116, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港11, server: zfd.out01.nodeserver.top, port: 16115, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港12, server: zfd.out04.nodeserver.top, port: 16114, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港13, server: zfd.out03.nodeserver.top, port: 16113, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港14, server: zfd.out02.nodeserver.top, port: 16112, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: 香港15, server: zfd.out01.nodeserver.top, port: 16111, type: vmess, uuid: b07b19c1-9ee9-3796-8690-cb09f9646ae0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 使用前更新订阅获取最新节点！
       - 公益节点，请勿付费。如有购买及时退款！
       - 请加电报群获取更多免费高速节点！
-      - 阿尔巴尼亚 电报群：https://t.me/xrayfree
-      - 罗马尼亚 电报群：https://t.me/xrayfree
-      - 罗马尼亚 电报群：https://t.me/xrayfree 2
-      - 罗马尼亚 电报群：https://t.me/xrayfree 3
-      - 瑞典 电报群：https://t.me/xrayfree
-      - 瑞典 电报群：https://t.me/xrayfree 2
-      - 瑞典 电报群：https://t.me/xrayfree 3
-      - 英国 电报群：https://t.me/xrayfree
-      - 英国 电报群：https://t.me/xrayfree 2
-      - 英国 电报群：https://t.me/xrayfree 3
-      - 美国 电报群：https://t.me/xrayfree
-      - 美国 电报群：https://t.me/xrayfree 2
-      - 美国 电报群：https://t.me/xrayfree 3
-      - 美国 电报群：https://t.me/xrayfree 4
-      - 美国 电报群：https://t.me/xrayfree 5
-      - 美国 电报群：https://t.me/xrayfree 6
-      - 印度 电报群：https://t.me/xrayfree
-      - 印度 电报群：https://t.me/xrayfree 2
-      - 卢森堡 电报群：https://t.me/xrayfree
-      - 卢森堡 电报群：https://t.me/xrayfree 2
-      - 卢森堡 电报群：https://t.me/xrayfree 3
-      - 卢森堡 电报群：https://t.me/xrayfree 4
-      - 波黑 电报群：https://t.me/xrayfree
-      - 波黑 电报群：https://t.me/xrayfree 2
-      - 波黑 电报群：https://t.me/xrayfree 3
-      - 波黑 电报群：https://t.me/xrayfree 4
-      - 波黑 电报群：https://t.me/xrayfree 5
+      - 电报群：https://t.me/xrayfree
+      - 香港06
+      - 香港05
+      - 香港04
+      - 香港03
+      - 香港02
+      - 香港01
+      - 台湾08
+      - 台湾07
+      - 台湾06
+      - 台湾05
+      - 台湾04
+      - 台湾03
+      - 台湾02
+      - 台湾01
+      - 西雅图01
+      - 西雅图02
+      - 美国01
+      - 美国02
+      - 美国03
+      - 美国04
+      - 美国05
+      - 美国06
+      - 美国07
+      - 美国08
+      - 新加坡01
+      - 新加坡02
+      - 新加坡03
+      - 新加坡04
+      - 新加坡05
+      - 新加坡06
+      - 新加坡07
+      - 新加坡08
+      - 俄罗斯01
+      - 俄罗斯02
+      - 马来西亚01
+      - 日本01
+      - 日本02
+      - 日本03
+      - 日本04
+      - 日本05
+      - 日本06
+      - 日本07
+      - 日本08
+      - 香港07
+      - 香港08
+      - 香港09
+      - 香港10
+      - 香港11
+      - 香港12
+      - 香港13
+      - 香港14
+      - 香港15
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 使用前更新订阅获取最新节点！
       - 公益节点，请勿付费。如有购买及时退款！
       - 请加电报群获取更多免费高速节点！
-      - 阿尔巴尼亚 电报群：https://t.me/xrayfree
-      - 罗马尼亚 电报群：https://t.me/xrayfree
-      - 罗马尼亚 电报群：https://t.me/xrayfree 2
-      - 罗马尼亚 电报群：https://t.me/xrayfree 3
-      - 瑞典 电报群：https://t.me/xrayfree
-      - 瑞典 电报群：https://t.me/xrayfree 2
-      - 瑞典 电报群：https://t.me/xrayfree 3
-      - 英国 电报群：https://t.me/xrayfree
-      - 英国 电报群：https://t.me/xrayfree 2
-      - 英国 电报群：https://t.me/xrayfree 3
-      - 美国 电报群：https://t.me/xrayfree
-      - 美国 电报群：https://t.me/xrayfree 2
-      - 美国 电报群：https://t.me/xrayfree 3
-      - 美国 电报群：https://t.me/xrayfree 4
-      - 美国 电报群：https://t.me/xrayfree 5
-      - 美国 电报群：https://t.me/xrayfree 6
-      - 印度 电报群：https://t.me/xrayfree
-      - 印度 电报群：https://t.me/xrayfree 2
-      - 卢森堡 电报群：https://t.me/xrayfree
-      - 卢森堡 电报群：https://t.me/xrayfree 2
-      - 卢森堡 电报群：https://t.me/xrayfree 3
-      - 卢森堡 电报群：https://t.me/xrayfree 4
-      - 波黑 电报群：https://t.me/xrayfree
-      - 波黑 电报群：https://t.me/xrayfree 2
-      - 波黑 电报群：https://t.me/xrayfree 3
-      - 波黑 电报群：https://t.me/xrayfree 4
-      - 波黑 电报群：https://t.me/xrayfree 5
+      - 电报群：https://t.me/xrayfree
+      - 香港06
+      - 香港05
+      - 香港04
+      - 香港03
+      - 香港02
+      - 香港01
+      - 台湾08
+      - 台湾07
+      - 台湾06
+      - 台湾05
+      - 台湾04
+      - 台湾03
+      - 台湾02
+      - 台湾01
+      - 西雅图01
+      - 西雅图02
+      - 美国01
+      - 美国02
+      - 美国03
+      - 美国04
+      - 美国05
+      - 美国06
+      - 美国07
+      - 美国08
+      - 新加坡01
+      - 新加坡02
+      - 新加坡03
+      - 新加坡04
+      - 新加坡05
+      - 新加坡06
+      - 新加坡07
+      - 新加坡08
+      - 俄罗斯01
+      - 俄罗斯02
+      - 马来西亚01
+      - 日本01
+      - 日本02
+      - 日本03
+      - 日本04
+      - 日本05
+      - 日本06
+      - 日本07
+      - 日本08
+      - 香港07
+      - 香港08
+      - 香港09
+      - 香港10
+      - 香港11
+      - 香港12
+      - 香港13
+      - 香港14
+      - 香港15
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -124,36 +199,61 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 使用前更新订阅获取最新节点！
       - 公益节点，请勿付费。如有购买及时退款！
       - 请加电报群获取更多免费高速节点！
-      - 阿尔巴尼亚 电报群：https://t.me/xrayfree
-      - 罗马尼亚 电报群：https://t.me/xrayfree
-      - 罗马尼亚 电报群：https://t.me/xrayfree 2
-      - 罗马尼亚 电报群：https://t.me/xrayfree 3
-      - 瑞典 电报群：https://t.me/xrayfree
-      - 瑞典 电报群：https://t.me/xrayfree 2
-      - 瑞典 电报群：https://t.me/xrayfree 3
-      - 英国 电报群：https://t.me/xrayfree
-      - 英国 电报群：https://t.me/xrayfree 2
-      - 英国 电报群：https://t.me/xrayfree 3
-      - 美国 电报群：https://t.me/xrayfree
-      - 美国 电报群：https://t.me/xrayfree 2
-      - 美国 电报群：https://t.me/xrayfree 3
-      - 美国 电报群：https://t.me/xrayfree 4
-      - 美国 电报群：https://t.me/xrayfree 5
-      - 美国 电报群：https://t.me/xrayfree 6
-      - 印度 电报群：https://t.me/xrayfree
-      - 印度 电报群：https://t.me/xrayfree 2
-      - 卢森堡 电报群：https://t.me/xrayfree
-      - 卢森堡 电报群：https://t.me/xrayfree 2
-      - 卢森堡 电报群：https://t.me/xrayfree 3
-      - 卢森堡 电报群：https://t.me/xrayfree 4
-      - 波黑 电报群：https://t.me/xrayfree
-      - 波黑 电报群：https://t.me/xrayfree 2
-      - 波黑 电报群：https://t.me/xrayfree 3
-      - 波黑 电报群：https://t.me/xrayfree 4
-      - 波黑 电报群：https://t.me/xrayfree 5
+      - 电报群：https://t.me/xrayfree
+      - 香港06
+      - 香港05
+      - 香港04
+      - 香港03
+      - 香港02
+      - 香港01
+      - 台湾08
+      - 台湾07
+      - 台湾06
+      - 台湾05
+      - 台湾04
+      - 台湾03
+      - 台湾02
+      - 台湾01
+      - 西雅图01
+      - 西雅图02
+      - 美国01
+      - 美国02
+      - 美国03
+      - 美国04
+      - 美国05
+      - 美国06
+      - 美国07
+      - 美国08
+      - 新加坡01
+      - 新加坡02
+      - 新加坡03
+      - 新加坡04
+      - 新加坡05
+      - 新加坡06
+      - 新加坡07
+      - 新加坡08
+      - 俄罗斯01
+      - 俄罗斯02
+      - 马来西亚01
+      - 日本01
+      - 日本02
+      - 日本03
+      - 日本04
+      - 日本05
+      - 日本06
+      - 日本07
+      - 日本08
+      - 香港07
+      - 香港08
+      - 香港09
+      - 香港10
+      - 香港11
+      - 香港12
+      - 香港13
+      - 香港14
+      - 香港15
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
