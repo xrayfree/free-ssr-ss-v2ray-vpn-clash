@@ -3,9 +3,9 @@
 更新日期：2021.12.15
 
 v2ray订阅链接：
-https://c1n.cn/v2ray
+https://c1n.cn/v2ray (填入订阅URL更新)
 clash订阅链接：
-https://c1n.cn/clash
+https://c1n.cn/clash (填入订阅URL更新)
 
 
 
