@@ -4,7 +4,7 @@
 
 v2ray订阅链接：
 https://c1n.cn/v2ray (填入订阅URL更新)
-备用
+备用：
 https://suo.yt/v2ray
 
 clash订阅链接：
