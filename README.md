@@ -4,14 +4,18 @@
 
 v2ray订阅链接：
 https://c1n.cn/v2ray (填入订阅URL更新)
+备用
+https://suo.yt/v2ray
+
 clash订阅链接：
 https://c1n.cn/clash (填入订阅URL更新)
+备用：
+https://suo.yt/clash
 
 
 
 
-
-39.9元一年 共享VIP节点 一包烟钱一年不再折腾。
+49.9元一年 共享VIP节点 一包烟钱一年不再折腾。
 不限流量，3台设备，稳定高速。
 包含热门地区，解锁奈飞流媒体。
 购买地址：https://c1n.cn/vip
