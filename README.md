@@ -1,5 +1,5 @@
 # free-ssr-ss-v2ray-vpn-clash
-长期免费维护数个 SSR/SS/V2RAY/VPN/CLASH 免费高速节点订阅链接！最新订阅链接电报群：https://t.me/xrayfree
+长期免费维护数个 SSR/SS/V2RAY/VPN/CLASH/小火箭 免费高速节点订阅链接！最新订阅链接电报群：https://t.me/xrayfree
 更新日期：2022.03.18 每日都会更新节点，不在此另做通知！添加下面的订阅地址使用前更新到最新节点即可使用。
 
 v2ray订阅链接：
