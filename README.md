@@ -12,7 +12,7 @@ https://c1n.cn/clash (填入订阅URL更新)
 备用：
 https://suo.yt/clash
 
-
+软件下载及教程：https://suo.yt/jc
 
 
 49.9元一年 共享VIP节点 一包烟钱一年不再折腾。
