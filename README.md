@@ -5,7 +5,7 @@
 v2ray订阅链接：
 https://d1.mk/freev2 （复制URL到软件里更新）
 备用：https://v1.mk/freev2
-     https://v1.gs/clash
+     https://v1.gs/v2ray
 
 clash订阅链接：https://d1.mk/freeclash （复制URL到软件里更新）
 备用：https://v1.mk/freeclash
