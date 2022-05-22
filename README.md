@@ -3,11 +3,13 @@
 更新日期：2022.05.22  每日都会更新节点，不在此另做通知！订阅链接固定不变，添加下面的订阅地址使用前更新到最新节点即可使用。
 
 v2ray订阅链接：
-https://suo.yt/v2ray (填入订阅URL更新)
+https://d1.mk/freev2 
+备用：https://v1.mk/freev2
+     https://v1.gs/clash
 
-clash订阅链接：
-https://suo.yt/clash (填入订阅URL更新)
-
+clash订阅链接：https://d1.mk/freeclash
+备用：https://v1.mk/freeclash
+     https://v1.gs/clash
 软件下载及教程：https://suo.yt/jc
 
 
