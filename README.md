@@ -12,9 +12,3 @@ clash订阅链接：https://d1.mk/freeclash （复制URL到软件里更新）
      https://v1.gs/clash
      
 软件下载及教程：https://suo.yt/jc
-
-
-60元一年 共享VIP节点 一包烟钱一年不再折腾。
-不限流量，3台设备，稳定高速。
-包含热门地区，解锁奈飞流媒体。
-购买地址：https://suo.yt/gvip
