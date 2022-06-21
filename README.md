@@ -11,7 +11,6 @@ clash订阅链接：https://tt.vg/freeclash （复制URL到软件里更新）
 
 软件下载及教程：https://suo.yt/jc
 
-苹果小火箭扫码添加订阅：
 ![Image text](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash/blob/main/xhj.jpg)
 
 
