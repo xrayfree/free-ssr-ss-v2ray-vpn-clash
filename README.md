@@ -20,6 +20,6 @@ http://gg.gg/freecl （复制URL到软件里更新）
 
 软件下载及教程：https://suo.yt/jc
 
-![Image text](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash/blob/main/xhj.jpg)
+![Image text](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash/blob/main/GG.jpg)
 
 
