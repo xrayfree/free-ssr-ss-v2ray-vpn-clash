@@ -11,10 +11,12 @@
 2022-06-26 更换最新订阅链接
 
 v2ray订阅链接：
+https://tt.vg/freev2 （复制URL到软件里更新）
 http://gg.gg/freev2 （复制URL到软件里更新）
 
 
 clash订阅链接：
+https://tt.vg/freeclash （复制URL到软件里更新）
 http://gg.gg/freecl （复制URL到软件里更新）
 
 
