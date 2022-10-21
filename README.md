@@ -9,7 +9,7 @@ clash订阅链接：
 https://tt.vg/freeclash （复制URL到软件里更新）
 
 
-软件下载及教程：https://suo.yt/jc
+软件下载及教程：https://tt.vg/rjjc
 
 ![Image text](https://freefq.neocities.org/tt.png)
 
