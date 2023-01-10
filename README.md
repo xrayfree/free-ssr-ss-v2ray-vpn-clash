@@ -4,16 +4,16 @@
 【主力】和【备用】内容一样,【主力】不能更新时切换【备用】
 v2ray订阅链接：
 
-【主力】https://tt.vg/freev2
+【主力】https://tt.sbs/freev2
 【备用】https://freefq.neocities.org/free.txt
 
 clash订阅链接：
 
-【主力】https://tt.vg/freeclash
+【主力】https://tt.sbs/freeclash
 【备用】https://freefq.neocities.org/free.xml 
 
 
-软件下载及教程：https://tt.vg/rjjc
+软件下载及教程：https://tt.sbs/rjjc
 
 ![Image text](https://freefq.neocities.org/tt.png)
 
