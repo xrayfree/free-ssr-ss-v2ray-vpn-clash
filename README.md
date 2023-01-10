@@ -15,6 +15,6 @@ clash订阅链接：
 
 软件下载及教程：https://tt.sbs/rjjc
 
-![Image text](https://freefq.neocities.org/tt.png)
+![Image text](https://freefq.neocities.org/TT.jpg)
 
 
