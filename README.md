@@ -19,6 +19,6 @@
 
 # 软件下载及教程：https://tt.vg/rjjc
 
-![Image text](https://freefq.neocities.org/TT.jpg)
+![Image text](https://camo.githubusercontent.com/0ea55c319868d8a2c13010d5fd268dbc48857e6fd2454c966906203ac6808548/68747470733a2f2f6672656566712e6e656f6369746965732e6f72672f54542e6a7067)
 
 
