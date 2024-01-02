@@ -8,7 +8,7 @@
 
 # v2ray订阅链接：
 
-【主力】https://tt.vg/freev2
+【主力】https://www.xrayvip.com/free.txt
 【备用】https://v2ray.neocities.org/v2ray.txt
 
 # clash订阅链接：
