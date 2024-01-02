@@ -1,4 +1,4 @@
-# 付费推荐：https://tt.vg/jctj  IPLC专线 国内中转 国外直连机场购买。
+# 付费推荐：https://www.xrayvip.com/  IPLC专线 国内中转 国外直连机场购买。
 
 # 免费v2ray/clash/小火箭高速节点订阅链接 免费节点不保证速度和稳定性。
 
