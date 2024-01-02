@@ -13,7 +13,7 @@
 
 # clash订阅链接：
 
-【主力】https://tt.vg/freeclash
+【主力】https://www.xrayvip.com/free.yaml
 【备用】https://v2ray.neocities.org/clash.xml 
 
 
