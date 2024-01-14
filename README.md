@@ -1,5 +1,5 @@
-# 高端机场：WgetCloud BGP中转+双程CN2优质线路，独享带宽，主打稳定性。套餐有：基础线路，优质专线，精品专线。 立即注册：https://www.xrayvip.com/gaoduan.html
-# 中转机场：飞鸟云 支持流媒体及GPT，月付：10元200G/15元400G/20元600G  立即注册：https://www.xrayvip.com/zhongzhuan.html
+# 高端机场：WgetCloud BGP中转+双程CN2优质线路，独享带宽，主打稳定性。套餐有：基础线路，优质专线，精品专线。 立即注册：https://www.xrayvip.com/gd.html
+# 中转机场：飞鸟云 支持流媒体及GPT，月付：10元200G/15元400G/20元600G  立即注册：https://www.xrayvip.com/zz.html
 # 付费机场推荐：https://www.xrayvip.com/ 【持续更新】
 
 # 免费v2ray/clash/小火箭高速节点订阅链接 免费节点不保证速度和稳定性。
