@@ -1,4 +1,3 @@
-# 高端机场：WgetCloud BGP中转+双程CN2优质线路，独享带宽，主打稳定性。套餐有：基础线路，优质专线，精品专线。 立即注册：https://www.xrayvip.com/gd.html
 # IPLC机场：高端IPLC专线，支持流媒体及GPT，月付：20元/160GB 30元/370GB 50元/810GB【高端稳定】立即注册：https://www.xrayvip.com/2.html
 # 中转机场：飞鸟云 支持流媒体及GPT，月付：10元200G/15元400G/20元600G  立即注册：https://www.xrayvip.com/3.html
 # 付费机场推荐：https://www.xrayvip.com/ 【持续更新】
