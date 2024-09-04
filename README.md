@@ -1,4 +1,4 @@
-# 付费机场推荐：https://www.xrayvip.com/ 【持续更新】
+# 付费机场推荐：https://www.xrayvip.com/ 【建议收藏】
 
 # 免费v2ray/clash/小火箭高速节点订阅链接 免费节点不保证速度和稳定性。
 
