@@ -8,11 +8,11 @@
 
 # v2ray订阅链接：
 
-【主力】https://www.xrayvip.com/free.txt
+https://www.xrayvip.com/free.txt
 
 # clash订阅链接：
 
-【主力】https://www.xrayvip.com/free.yaml
+https://www.xrayvip.com/free.yaml
 
 
 # 软件下载及教程：https://tt.vg/rjjc
