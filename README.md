@@ -9,12 +9,10 @@
 # v2ray订阅链接：
 
 【主力】https://www.xrayvip.com/free.txt
-【备用】https://v2ray.neocities.org/v2ray.txt
 
 # clash订阅链接：
 
 【主力】https://www.xrayvip.com/free.yaml
-【备用】https://v2ray.neocities.org/clash.xml 
 
 
 # 软件下载及教程：https://tt.vg/rjjc
