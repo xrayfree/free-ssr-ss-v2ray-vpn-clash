@@ -19,10 +19,6 @@
 
 ---
 
-### 🛠️ 软件下载及教程
-👉 **[https://tt.vg/rjjc](https://tt.vg/rjjc)**
-
----
 
 ### 📸 小火箭订阅二维码
 ![Image text](https://github.com/xrayfree/free-ssr-ss-v2ray-vpn-clash/blob/main/tt.png?raw=true)
