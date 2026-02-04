@@ -1,0 +1,32 @@
+name: time
+
+on:
+  schedule:
+    # 每天北京时间凌晨 0:05 执行 (UTC 16:05)
+    - cron: '5 16 * * *'
+  workflow_dispatch: # 允许手动点击运行
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions: # 显式声明权限，确保可以推送代码
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run script
+        run: python time.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "chore: 自动更新日期" || echo "No changes to commit"
+          git push
