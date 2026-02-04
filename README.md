@@ -5,11 +5,11 @@
 长期免费维护数个 SSR/SS/V2RAY/VPN/CLASH/小火箭 免费高速节点订阅链接！
 更新日期：2026.02.04 每日都会更新节点，不在此另做通知！订阅链接固定不变，添加下面的订阅地址，使用前更新到最新节点即可使用。
 
-# v2ray订阅链接：
+v2ray订阅链接：
 
 https://www.xrayvip.com/free.txt
 
-# clash订阅链接：
+clash订阅链接：
 
 https://www.xrayvip.com/free.yaml
 
