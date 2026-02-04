@@ -2,14 +2,14 @@ name: time
 
 on:
   schedule:
-    # 每天北京时间凌晨 0:05 执行 (UTC 16:05)
-    - cron: '5 16 * * *'
-  workflow_dispatch: # 允许手动点击运行
+    # 每天北京时间 06:00 运行
+    - cron: '0 22 * * *'
+  workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    permissions: # 显式声明权限，确保可以推送代码
+    permissions:
       contents: write
     steps:
       - name: Checkout
@@ -28,5 +28,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "chore: 自动更新日期" || echo "No changes to commit"
+          git commit -m "chore: 每日早晨自动更新日期" || echo "No changes to commit"
           git push
