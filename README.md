@@ -1,4 +1,4 @@
-# 💎 付费机场推荐：[https://www.xrayvip.com/](https://www.xrayvip.com/) 【建议收藏】
+# 💎 付费机场推荐：[https://www.xrayvip.com/](https://www.xrayvip.com/) 
 
 ---
 
